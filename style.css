@@ -51,3 +51,19 @@ section{
 .S2{
     margin-left: 2%;
 }
+footer img{
+    width: 15%;
+    height: 100%;
+    padding-left: 2%;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    margin-left: 7%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+footer a:hover{
+    color: gray;
+}
+
