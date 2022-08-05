@@ -33,7 +33,7 @@ footer{
     width: 98%;
     height: 89px;
     background-color:#211921 ;
-    margin-top: 52%;
+    margin-top: 55%;
     display: block;
     margin-left: 1%;
 }
@@ -41,13 +41,42 @@ section{
     width: 49%;
     height: 288px;
     background-color: #211921;
-    margin-top: 43%;
+
     display: block;
     float: left;
 }
 .S1{
     margin-left: 0%;
+    margin-top: 44px;
 }
 .S2{
     margin-left: 2%;
+    margin-top: 44px;
+}
+.img1{
+    height: 70%;
+    width: 40%;
+    padding-left: 2%;
+    float: left;
+    margin-top: 3%;
+}
+main h1{
+   background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+   text-indent: 10px;
+   text-align: center;
+}
+main p{
+    width: 400px;
+    margin-top: -200px;
+    margin-left: 100px;
+    float: right;
+}
+main a{
+    background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
+    display: inline-block;
+    margin-top: -20px;
+    margin-right: 42px;
+    text-decoration: none;
+    color: #080008;
+    float: right;
 }
