@@ -31,7 +31,7 @@ aside{
 }
 footer{
     width: 98%;
-    height: 89px;
+    height: 132px;
     background-color:#211921 ;
     margin-top: 52%;
     display: block;
@@ -51,19 +51,31 @@ section{
 .S2{
     margin-left: 2%;
 }
-footer img{
-    width: 15%;
-    height: 100%;
-    padding-left: 2%;
+footer ul li{
+    width: 93%;
+    list-style: none;
+    margin-top: 6px;
 }
-footer a{
+
+footer ul li a{
     color: white;
     text-decoration: none;
-    margin-left: 7%;
-    margin-right: 10%;
+    margin-left: 12%;
     margin-top: 10%;
 }
-footer a:hover{
+footer ul li a:hover{
     color: gray;
 }
+footer h3{
+    margin-left: 11%;
+    margin-bottom: 2%;
+}
+footer img{
+    width: 20%;
+    height: 151px;
+    display: block;
+    float: right;
+    margin-right: 3%;
+}
+
 
