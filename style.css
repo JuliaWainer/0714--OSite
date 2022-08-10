@@ -107,6 +107,34 @@ main a{
 }
 .S1 a{
     background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
+}
+.S2 h1{
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+    text-indent: 20px;
+}
+.S2 h3{
+    padding-top: 5px;
+    text-indent: 6%;
+}
+.S2 p{
+    padding-top: 4px;
+    padding-right: 13px;
+    text-align: justify;
+    padding-left: 13px;
+    font-size: smaller;
+}
+.S2 h2{
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+    margin-top: 30px;
+    text-align: center;
+    width: 85%;
+    margin-left: 8%;
+}
+.S2 ul li{
+    margin-left: 50px;
+}
+.S2 a{
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
     display: inline-block;
     margin-right: 18px;
     text-decoration: none;
