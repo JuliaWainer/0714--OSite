@@ -44,6 +44,8 @@ section{
 
     display: block;
     float: left;
+    margin-left: 3px;
+    margin-right: 5px;
 }
 .S1{
     margin-left: 0%;
@@ -141,3 +143,28 @@ main a{
     color: #080008;
     float: right;
 }
+form input {
+    width:90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: block;
+    float: left;
+}
+form label {
+    color: white;
+    font-size: 12px;
+    margin-top: 15px;
+}
+#txtNome {
+    background-image: url(./img/search.png);
+    background-position-x: 97%;
+   background-position-y: center;
+    background-size: 2.5vh;
+   background-repeat: no-repeat;
+   height: 40px;
+   background-color: whitesmoke;
+   border: 5px solid transparent;
+   border-image:linear-gradient(to right, #fee400, #37b4e5, #fde000, #f65c8b, #f2e300, #37b4e3, #f66f76);
+   border-image-slice: 1;
+}
+
