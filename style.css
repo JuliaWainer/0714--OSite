@@ -53,6 +53,7 @@ section{
 }
 .S2{
     margin-left: 2%;
+
     margin-top: 44px;
 }
 .img1{
@@ -167,4 +168,17 @@ form label {
    border-image:linear-gradient(to right, #fee400, #37b4e5, #fde000, #f65c8b, #f2e300, #37b4e3, #f66f76);
    border-image-slice: 1;
 }
-
+aside h1{
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+    width: 90%;
+    margin-left: 5%;
+    text-indent: 10px;
+}
+aside ul li{
+    width: 90%;
+    margin-left: 5%; 
+    color: #080008;
+    display: block;
+    background-color: white;
+    text-indent: 10px;
+}
