@@ -55,6 +55,7 @@ aside h1{
     width: 90%;
     margin-left: 5%;
     text-indent: 10px;
+    margin-top: 13%;
 }
 aside ul li{
     width: 90%;
@@ -118,6 +119,7 @@ section{
 .S1 a{
     background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
     margin-left: 71%;
+    margin-top: 4%;
 }
 
 .S2{
@@ -140,7 +142,7 @@ section{
 }
 .S2 h2{
     background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
-    margin-top: 30px;
+    margin-top: 10px;
     text-align: center;
     width: 85%;
     margin-left: 8%;
@@ -150,8 +152,8 @@ section{
 }
 .S2 a{
     background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
-    margin-left: 21%;
-    margin-top: 30%;
+    margin-left: 70%;
+    margin-top: 4%;
 }
 
 .img1{
@@ -168,6 +170,7 @@ form input {
     margin-right: 5%;
     display: block;
     float: left;
+    border-radius: 5%;
 }
 
 form label {
@@ -191,21 +194,21 @@ form label {
 }
 
 .G1{
-    width: 18%;
-    margin-left: 30%;
-    margin-top: 5%;
+    width: 24%;
+    margin-left: 26%;
+    margin-top: 3%;
 }
 .G2{
-    width: 18%;
+    width: 24%;
     margin-left: 3%;
 }
 .G3{
-    width: 18%;
-    margin-left: 30%;
-    margin-top: 4%;
+    width: 24%;
+    margin-left: 26%;
+    margin-top: 3%;
 }
 .G4{
-    width: 18%;
+    width: 24%;
     margin-left: 3%;
 }
 
@@ -300,7 +303,7 @@ header span{
     border: none;
     max-height: 60%;
     align-items: center;
-    margin: 0px 28% 3.5%;
+    margin: 6px 28% 3.5%;
 }
 .links a {
     width: 242px;
