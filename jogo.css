@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Avenir, sans-serif;
+}
+body{
+    background-color: #080008;
+    color: white;
+}
+img{
+    width: 55%;
+    margin-left: 22%;
+    margin-top: 5%;
+    border: 21px solid;
+    border-image:linear-gradient(45deg, #ef1e8b ,#fde200, #35B1F2 ) 10;
+}
+main{
+    background-color: #211921;
+    width: 91%;
+    height: 200px;
+    margin-top: 3%;
+    margin-left: 4%;
+    border-radius: 28px;
+}
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 3%
+}
+h1{
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+    margin-left: 30%;
+    margin-top: 2%;
+    width: 35%;
+    border-radius: 5px;
+}
+h2{
+    margin-left: 26%;
+    margin-top: 2%;
+}
