@@ -13,6 +13,7 @@ header{
     background-color: #211921;
     margin-bottom: 3%;
 }
+
 main{
     width: 57%;
     height: 300px;
@@ -21,14 +22,47 @@ main{
     float: left;
     margin-left: 1%;
 }
+main h1{
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+    text-indent: 10px;
+    text-align: center;
+ }
+ main p{
+     width: 400px;
+     margin-top: -200px;
+     margin-left: 100px;
+     float: right;
+ }
+ main a{
+     background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
+     display: inline-block;
+     margin-top: -20px;
+     margin-right: 42px;
+ }
+
 aside{
     width: 39%;
-    height: 600px;
+    height: 818px;
     background-color: #211921;
     display: block;
     float: right;
     margin-right: 1%;
 }
+aside h1{
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+    width: 90%;
+    margin-left: 5%;
+    text-indent: 10px;
+}
+aside ul li{
+    width: 90%;
+    margin-left: 5%; 
+    color: #080008;
+    display: block;
+    background-color: white;
+    text-indent: 10px;
+}
+
 footer{
     width: 98%;
     height: 89px;
@@ -47,39 +81,10 @@ section{
     margin-left: 3px;
     margin-right: 5px;
 }
+
 .S1{
     margin-left: 0%;
     margin-top: 44px;
-}
-.S2{
-    margin-left: 2%;
-
-
-    margin-top: 44px;
-}
-.img1{
-    height: 70%;
-    width: 40%;
-    padding-left: 2%;
-    float: left;
-    margin-top: 3%;
-}
-main h1{
-   background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
-   text-indent: 10px;
-   text-align: center;
-}
-main p{
-    width: 400px;
-    margin-top: -200px;
-    margin-left: 100px;
-    float: right;
-}
-main a{
-    background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
-    display: inline-block;
-    margin-top: -20px;
-    margin-right: 42px;
 }
 .S1 h1{
     background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
@@ -98,7 +103,7 @@ main a{
 }
 .S1 p{
     padding-top: 4px;
-    display: flexbox;
+    display: contents;
     padding-right: 13px;
     text-align: justify;
     padding-left: 13px;
@@ -111,6 +116,11 @@ main a{
 }
 .S1 a{
     background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
+}
+
+.S2{
+    margin-left: 0%;
+    margin-top: 44px;
 }
 .S2 h1{
     background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
@@ -126,6 +136,7 @@ main a{
     text-align: justify;
     padding-left: 13px;
     font-size: smaller;
+    display: contents;
 }
 .S2 h2{
     background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
@@ -145,6 +156,15 @@ main a{
     color: #080008;
     float: right;
 }
+
+.img1{
+    height: 70%;
+    width: 40%;
+    padding-left: 2%;
+    float: left;
+    margin-top: 3%;
+}
+
 form input {
     width:90%;
     margin-left: 5%;
@@ -168,20 +188,6 @@ form label {
    border: 5px solid transparent;
    border-image:linear-gradient(to right, #fee400, #37b4e5, #fde000, #f65c8b, #f2e300, #37b4e3, #f66f76);
    border-image-slice: 1;
-}
-aside h1{
-    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
-    width: 90%;
-    margin-left: 5%;
-    text-indent: 10px;
-}
-aside ul li{
-    width: 90%;
-    margin-left: 5%; 
-    color: #080008;
-    display: block;
-    background-color: white;
-    text-indent: 10px;
 }
 
 .G1{
