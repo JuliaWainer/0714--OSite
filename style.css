@@ -36,13 +36,13 @@ main h1{
  main a{
      background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
      display: inline-block;
-     margin-top: 25%;
+     margin-top: 29%;
      margin-left: 46%;
  }
 
 aside{
     width: 39%;
-    height: 741px;
+    height: 737px;
     background-color: #211921;
     display: block;
     float: right;
@@ -66,8 +66,8 @@ aside ul li{
 footer{
     width: 98%;
     height: 143px;
-    background-color:#211921 ;
-    margin-top: 55%;
+    background-color:#211921;
+    margin-top: 64%;
     display: block;
     margin-left: 1%;
 }
@@ -171,6 +171,7 @@ form input {
 form label {
     color: white;
     font-size: 12px;
+    margin-left: 5%;
     margin-top: 15px;
 }
 
@@ -317,7 +318,7 @@ header span{
     box-sizing: content-box;
 }
 .roda a {
-    margin: 0 13px;
+    margin: 0 10px;
     width: 74px;
     background-color: transparent;
 }
