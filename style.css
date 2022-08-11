@@ -105,13 +105,13 @@ header span{
     font-weight: 600;
 }
 .links img {
-    min-width: 40px;
-    min-height: 40px;
+    min-width: 5%;
+    min-height: 5%;
     margin: 0 auto 5px;
     border: none;
-    max-height: 40px;
+    max-height: 60%;
     align-items: center;
-    margin: 0px 98px 1px;
+    margin: 0px 28% 3.5%;
 }
 .links a {
     width: 242px;
@@ -131,7 +131,7 @@ header span{
     box-sizing: content-box;
 }
 .roda a {
-    margin: 0 14px;
+    margin: 0 13px;
     width: 74px;
     background-color: transparent;
 }
@@ -157,38 +157,39 @@ header span{
     transform: scale(1.2);
 }
 .esquerda {
-    margin-left: 7px;
-    width: 72px;
-    height: 97px;
+    width: 60px;
+    height: 87px;
     border: solid wheat;
     background: no-repeat url(./img/etc/setacolor22.png) 50% center;
+    float: left;
 }
 .esquerda img {
-    width: 80%;
+    width: 90%;
     height: 80%;
 }
 .esquerda button {
     box-shadow: 4px 0 4px -4px rgb(0 0 0 / 50%);
+    width: 50px;
+    height: 5%;
 }
 .esquerda button::before {
     height: 100%;
     width: 100%;
 }
 .direita {
-    margin-right: 7px;
-    width: 72px;
-    height: 97px;
+    width: 60px;
+    height: 87px;
     border: solid wheat;
-    background: no-repeat url(./img/etc/setacolor.png) 10%;
+    background: no-repeat url(./img/etc/setacolor.png) 50% center;
 }
 .direita button {
     box-shadow: 4px 0 4px -4px rgb(0 0 0 / 50%);
-    width: 100%;
-    height: 100%;
+    width: 50px;
+    height: 5%;
 }
-.direita button::before {
-    height: 100%;
-    width: 100%;
+.direita img {
+    width: 90%;
+    height: 80%;
 }
 .começo {
     z-index: 51;
@@ -200,12 +201,6 @@ header span{
 .luz {
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 2%;
     overflow: inherit;
-}
-.S1{
-    margin-left: 0%;
-}
-.S2{
-    margin-left: 2%;
 }
