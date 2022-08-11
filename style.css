@@ -54,6 +54,7 @@ section{
 .S2{
     margin-left: 2%;
 
+
     margin-top: 44px;
 }
 .img1{
@@ -182,3 +183,23 @@ aside ul li{
     background-color: white;
     text-indent: 10px;
 }
+
+.G1{
+    width: 24%;
+    margin-left: 24%;
+    margin-top: 5%;
+}
+.G2{
+    width: 24%;
+    margin-left: 3%;
+}
+.G3{
+    width: 24%;
+    margin-left: 24%;
+    margin-top: 4%;
+}
+.G4{
+    width: 24%;
+    margin-left: 3%;
+}
+
