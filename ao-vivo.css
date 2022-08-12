@@ -10,7 +10,7 @@ body{
 img{
     width: 55%;
     margin-left: 20%;
-    margin-top: 5%;
+    margin-top: 3%;
     border: 21px solid;
     border-image:linear-gradient(45deg, #ef1e8b ,#fde200, #35B1F2 ) 10;
 }
@@ -33,6 +33,7 @@ h1{
     margin-top: 2%;
     width: 37%;
     border-radius: 5px;
+    text-align: center;
 }
 h2{
     margin-left: 26%;

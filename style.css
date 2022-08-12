@@ -28,15 +28,16 @@ main h1{
     text-align: center;
  }
  main p{
-     width: 400px;
-     margin-top: -200px;
-     margin-left: 100px;
-     float: right;
- }
+    width: 400px;
+    margin-top: 22px;
+    float: right;
+    text-indent: 10px;
+    display: flex;
+}
  main a{
      background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2);
      display: inline-block;
-     margin-top: 29%;
+     margin-top: 1%;
      margin-left: 46%;
      color: #ffffff;
      text-decoration: none;
@@ -121,41 +122,6 @@ section{
     margin-left: 71%;
     margin-top: 4%;
 }
-
-.S2{
-    margin-top: 44px;
-}
-.S2 h1{
-    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
-    text-indent: 20px;
-}
-.S2 h3{
-    padding-top: 5px;
-    text-indent: 6%;
-}
-.S2 p{
-    padding-top: 4px;
-    padding-right: 13px;
-    text-align: justify;
-    padding-left: 13px;
-    display: contents;
-}
-.S2 h2{
-    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
-    margin-top: 10px;
-    text-align: center;
-    width: 85%;
-    margin-left: 8%;
-}
-.S2 ul li{
-    margin-left: 50px;
-}
-.S2 a{
-    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
-    margin-left: 70%;
-    margin-top: 4%;
-}
-
 .img1{
     height: 70%;
     width: 40%;
